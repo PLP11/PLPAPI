@@ -1,4 +1,11 @@
 body{
-  background: #f1481e
+  background: #9b314b;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  font-size: larger;
+ text-align:center;
 }
 
